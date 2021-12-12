@@ -8,9 +8,9 @@ Challenges:
 - [x] Counter with context API
 - [x] Orderable todo list
 - [x] Post with comments section
-- [ ] Fetch and replace data with generic function
+- [x] Fetch and replace data with generic function
 - [x] Debounced textbox
-- [ ] Search box with recommendations
+- [x] Search box with recommendations
 - [ ] Dark theme switch with context API
 - [ ] Tic Tac Toe
 - [ ] Todo list with editable items
