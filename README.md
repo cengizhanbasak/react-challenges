@@ -6,8 +6,8 @@ More will come as time goes by.
 Challenges:
 
 - [x] Counter with context API
-- [ ] Orderable todo list
-- [ ] Post with comments section
+- [x] Orderable todo list
+- [x] Post with comments section
 - [ ] Fetch and replace data with generic function
 - [ ] Debounced textbox
 - [ ] Search box with recommendations
