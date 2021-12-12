@@ -12,10 +12,11 @@ Challenges:
 - [x] Debounced textbox
 - [x] Search box with recommendations
 - [ ] Dark theme switch with context API
-- [ ] Tic Tac Toe
+- [x] Tic Tac Toe
 - [ ] Todo list with editable items
 - [ ] Promise.all reimplementation
 - [ ] Promise.race reimplementation
 - [ ] Fetch with retry
+- [ ] Lazy load HOC
 
 Feel free to submit your own implementations(please open a PR).
