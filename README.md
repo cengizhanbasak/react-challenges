@@ -5,7 +5,7 @@ More will come as time goes by.
 
 Challenges:
 
-- [ ] Counter with context API
+- [x] Counter with context API
 - [ ] Orderable todo list
 - [ ] Post with comments section
 - [ ] Fetch and replace data with generic function
